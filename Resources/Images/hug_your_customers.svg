@@ -21,13 +21,13 @@
      id="defs4">
     <clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipPath4163">
+       id="clipPath4168">
       <rect
-         y="80.870956"
-         x="100.51313"
-         height="436.14999"
-         width="297.375"
-         id="rect4165"
+         y="276.86221"
+         x="102.25"
+         height="200"
+         width="128.88301"
+         id="rect4170"
          style="opacity:0.82999998;fill:#80ffe6;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </clipPath>
   </defs>
@@ -39,8 +39,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="261.38129"
-     inkscape:cy="660"
+     inkscape:cx="164.53473"
+     inkscape:cy="670"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -57,7 +57,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -66,8 +65,8 @@
      inkscape:groupmode="layer"
      id="layer1">
     <image
-       y="80.219322"
-       x="28.571455"
+       y="276.28351"
+       x="65.461639"
        id="image4144"
        xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcg
 SlBFRyB2NjIpLCBxdWFsaXR5ID0gODAK/9sAQwAGBAUGBQQGBgUGBwcGCAoQCgoJCQoUDg8MEBcU
@@ -453,11 +452,11 @@ RRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFF
 FABRRRQAUUUUAFFFFABRRRQB/9k=
 "
        preserveAspectRatio="none"
-       height="430"
-       width="400"
-       clip-path="url(#clipPath4163)"
-       transform="matrix(0.50441362,0,0,0.50441362,50.54981,237.0698)"
+       height="216.89786"
+       width="201.76544"
+       clip-path="url(#clipPath4168)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       transform="matrix(0.75650002,0,0,0.75,24.897872,115.21555)" />
   </g>
 </svg>
