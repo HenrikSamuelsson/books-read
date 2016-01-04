@@ -14,7 +14,6 @@ ISBN(English version): 9780071392310
 ISBN(Swedish version): 9789147089024  
 
 ![Image of the book The Toyota Way](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/the_toyota_way.png?raw=true)  
-
 Book about product manufacturing/development. Describes how Toyota thinks and work on achieving quality cars with few defects. Very useful book when planning to start or trying to improve production.  
 
 
