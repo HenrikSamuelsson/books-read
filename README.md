@@ -14,4 +14,10 @@ ISBN(Swedish version): 9789147089024
 ![Image of the book The Toyota Way](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/the_toyota_way.png?raw=true)  
 Book about product manufacturing/development. Describes how Toyota thinks and work on achieving quality cars with few defects. Very useful book when planning to start or trying to improve production.  
 
+## Latex in 157 Minutes  
+By Tobias Oetiker  
+ISBN: 9789881443625  
+![Image of the book Latex in 157 Minutes](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/latex_in_157_minutes.png?raw=true)  
+Teaches the typesetting system Latex that can be used to produce great text documents. Latex is like Microsoft Word but for smart productive people.
 
+Maybe not the best book I have read but I did learn some nice tricks and tips that are useful when using Latex. 
