@@ -26,7 +26,7 @@ Maybe not the best book I have read but I did learn some nice tricks and tips th
 
 ## Programming in C  
 By: Stephen G. Kochan  
-ISBN: 9780321776419
+ISBN: 9780321776419  
 ![Image of the book Programming in C](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/programming_in_c_4th.png?raw=true)  
  
 Solid book for beginners that want to learn C programming. The writing is extremely clear and concise.
