@@ -38,4 +38,6 @@ ISBN: 9781785780288
 ![Image of the book How to be a Productivity Ninja](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/productivity_ninja.png?raw=true)   
 This is a book from the "become a better person" shelf so is not strictly a fact or science book. This means that it is hard to verify and value the information in the book.
 
-The book promises to make you a more productive person and it is probably true that most people would be more productive if they would follow the advice from this book. The book is fairly fast to read and it is inexpensive. You will hence probably get your time back pretty fast by becoming more productive and maybe even your money if your boss or customers notices your improvements.  
+The book promises to make you a more productive person and it is probably true that most people would be more productive if they would follow the advice from this book.  
+
+The book is fairly fast to read and it is inexpensive. You will hence probably get your time back pretty fast by becoming more productive and maybe even your money if your boss or customers notices your improvements.  
