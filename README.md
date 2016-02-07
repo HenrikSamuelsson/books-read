@@ -41,3 +41,11 @@ This is a book from the "become a better person" shelf so is not strictly a fact
 The book promises to make you a more productive person and it is probably true that most people would be more productive if they would follow the advice from this book.  
 
 The book is fairly fast to read and it is inexpensive. You will hence probably get your time back pretty fast by becoming more productive and maybe even your money if your boss or customers notices your improvements.  
+
+## Milling a Complete Course  
+By: Harold Hall  
+ISBN: 9781854862327  
+![Image of the book Milling a Complete Course](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/milling_a_complete_course.png?raw=true)  
+Introduction to the milling machine. Drawings and instructions for a series of projects that gives experience in milling.  
+
+Working with metal is very much not my field expertise but it would be nice to be more handy. There was a lot of stuff that I did not really understand in this book but also gained some knowledge. Will try to read some more and watch some videos to become confident enough to try an actual mill.  
