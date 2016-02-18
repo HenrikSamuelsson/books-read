@@ -54,9 +54,8 @@ Working with metal is very much not my field expertise but it would be nice to b
 By: Randall Munroe  
 ISBN(English version): 9781473620919  
 ISBN(Swedish version): 9789187419980  
+![Image of the book Thing Explainer](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/sa_funkar_allt.png?raw=true)  
 
 Funny book that explains how various things work, written by the maker of [XKCD](http://xkcd.com/). All explanations are written using just the very most common words. Loads of drawings to explore in addition to the text.  
-
-![Image of the book Thing Explainer](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/sa_funkar_allt.png?raw=true)  
 
 Warning! Don't buy a e-book version you must buy a physical copy of this book. The book itself is large and there are big foldouts that wont work well on a small screen.  
