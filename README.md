@@ -49,3 +49,14 @@ ISBN: 9781854862327
 Introduction to the milling machine. Drawings and instructions for a series of projects that gives experience in milling.  
 
 Working with metal is very much not my field expertise but it would be nice to be more handy. There was a lot of stuff that I did not really understand in this book but also gained some knowledge. Will try to read some more and watch some videos to become confident enough to try an actual mill.  
+
+## Så Funkar Allt (Thing Explainer)  
+By: Randall Munroe  
+ISBN(English version): 9781473620919  
+ISBN(Swedish version): 9789187419980  
+
+Funny book that explains how various things work, written by the maker of [XKCD](http://xkcd.com/). All explanations are written using just the very most common words. Loads of drawings to explore in addition to the text.  
+
+![Image of the book Thing Explainer](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/sa_funkar_allt.png?raw=true)  
+
+Warning! Don't buy a e-book version you must buy a physical copy of this book. The book itself is large and there are big foldouts that wont work well on a small screen.  
