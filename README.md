@@ -59,3 +59,6 @@ ISBN(Swedish version): 9789187419980
 Funny book that explains how various things work, written by the maker of [XKCD](http://xkcd.com/). All explanations are written using just the very most common words. Loads of drawings to explore in addition to the text.  
 
 Warning! Don't buy a e-book version, go for physical copy of this book, because the book itself is large and there are big foldouts that wont work well on a small screen.  
+
+## Head First Java, 2nd Edition  
+By: Kathy Sierra and Bert Bates 
