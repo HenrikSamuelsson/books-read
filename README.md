@@ -61,4 +61,8 @@ Funny book that explains how various things work, written by the maker of [XKCD]
 Warning! Don't buy a e-book version, go for physical copy of this book, because the book itself is large and there are big foldouts that wont work well on a small screen.  
 
 ## Head First Java, 2nd Edition  
-By: Kathy Sierra and Bert Bates 
+By: Kathy Sierra and Bert Bates   
+ISBN: 9780596009205  
+![Image of the book Head First Java](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/head_first_java.png?raw=true)  
+
+Great introduction to the Java programming language. Probably not the best book for absolute beginners in programming, and parts of the book are dated by now, but other than that an excellent read if starting out to learn Java.   
