@@ -68,6 +68,6 @@ Great introduction to the Java programming language. Probably not the best book 
 ## A Brief History of Time  
 By: Stephen Hawking  
 ISBN: 9780857501004  
-
+![Image of the book A Brief History of Time](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/a_brief_history_of_time.png?raw=true)  
 About how physicists try to understand out how the universe works. The book lives at the popular science shelf in the book store so anyone can read it. Very interesting and a highly recommended read.  
 
