@@ -64,3 +64,10 @@ By: Kathy Sierra and Bert Bates
 ISBN: 9780596009205  
 ![Image of the book Head First Java](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/head_first_java.png?raw=true)  
 Great introduction to the Java programming language. Probably not the best book for absolute beginners in programming, and parts of the book are dated by now, but other than that an excellent read if starting out to learn Java.   
+
+## A Brief History of Time  
+By: Stephen Hawking  
+ISBN: 9780857501004  
+
+About how physicists try to understand out how the universe works. The book lives at the popular science shelf in the book store so anyone can read it. Very interesting and a highly recommended read.  
+
