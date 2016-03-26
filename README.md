@@ -71,3 +71,8 @@ ISBN: 9780857501004
 ![Image of the book A Brief History of Time](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/a_brief_history_of_time.png?raw=true)  
 About how physicists try to understand out how the universe works. The book lives at the popular science shelf in the book store so anyone can read it. Very interesting and a highly recommended read.  
 
+## Life at the Speed of Light
+By: J. Craig Venter  
+ISBN: 978349139906  
+![Image of the book Life at the Speed of Light](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/life_at_the_speed_of_light.png?raw=true)  
+Biological genetics research on how to possibly construct new types of bacteria, animals and even humans by starting out with a computer aided draft that then can be artificially grown into that what we call a real life form.  
