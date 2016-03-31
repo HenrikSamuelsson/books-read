@@ -76,3 +76,12 @@ By: J. Craig Venter
 ISBN: 978349139906  
 ![Image of the book Life at the Speed of Light](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/life_at_the_speed_of_light.png?raw=true)  
 Biological genetics research on how to possibly construct new types of bacteria, animals and even humans by starting out with a computer aided draft that then can be artificially grown into that what we call a real life form.  
+
+## A Strange Tale  
+By: Hans Olov Öberg  
+ISBN: 9789185535828  
+![Image of the book A strange tale](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/a_strange_tale.png?raw=true)  
+The journey of a jazz band from the start, struggling to get a gig at small clubs, to the end when they were famous enough to fill prestigious concert halls.  
+
+Proves that the ingredients to success is a bit of talent combined with hard work and dedication.  
+   
