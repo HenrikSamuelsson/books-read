@@ -84,4 +84,9 @@ ISBN: 9789185535828
 The journey of a jazz band from the start, struggling to get a gig at small clubs, to the end when they were famous enough to fill prestigious concert halls.  
 
 Proves that the ingredients to success is a bit of talent combined with hard work and dedication.  
-   
+
+## The Grand Design  
+By: Stephen Hawking and Leonard Mlodinow  
+ISBN: 9788129119711  
+![Image of The Grand Design](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/the_grand_design.png?raw=true)  
+About the creation and the fate of the universe as trying to be explained by physicists. The book explains the topics fairly well and there are nice color picture even in the pocket version. The reader is in the end unfortunately left hanging because the scientists does not really seem to have solved the riddle yet.  
