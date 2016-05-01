@@ -88,5 +88,13 @@ Proves that the ingredients to success is a bit of talent combined with hard wor
 ## The Grand Design  
 By: Stephen Hawking and Leonard Mlodinow  
 ISBN: 9788129119711  
-![Image of The Grand Design](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/the_grand_design.png?raw=true)  
+![Image of the book The Grand Design](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/the_grand_design.png?raw=true)  
 About the creation and the fate of the universe as trying to be explained by physicists. The book explains the topics fairly well and there are nice color picture even in the pocket version. The reader is in the end unfortunately left hanging because the scientists does not really seem to have solved the riddle yet.  
+
+## Head First Design Patterns  
+By: Eric Freeman and Elisabeth Robson with Kathy Sierra and Bert Bates  
+ISBN: 9780596007126  
+![Image of the book Head First Design Patterns](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/head_first_design_patterns.png?raw=true)  
+Very nice introduction to design patterns that serves as a great warmup before reading the book Design Patterns: Elements of Reusable Object-Oriented Software.  
+
+Note that all examples are written in Java so it is necessary to be some what knowledgeable in this language to fully appreciate the book.  
