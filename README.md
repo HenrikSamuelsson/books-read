@@ -98,3 +98,11 @@ ISBN: 9780596007126
 Very nice introduction to design patterns, that serves as a great warm-up before reading the book Design Patterns: Elements of Reusable Object-Oriented Software.  
 
 Note that all examples are written in Java so it is necessary to be some what knowledgeable in this programming language to fully appreciate the book.  
+
+## TCP/IP Foundations  
+By: Andrew G. Blank  
+ISBN: 9780782143709  
+![Image of the book TCP/IP Foundations](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/tcp_ip_foundations.png?raw=true)  
+Easy to read book for beginners who is interested in learning the basics of TCP/IP. The questions at the end of each chapter highlight the main points and offer a good review of each chapter.
+
+Note that book is a bit old and focused on setting up Windows system. This means that parts of the book are outdated describing Windows versions that are now retired.  
