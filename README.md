@@ -105,4 +105,4 @@ ISBN: 9780782143709
 ![Image of the book TCP/IP Foundations](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/tcp_ip_foundations.png?raw=true)  
 Easy to read book for beginners who is interested in learning the basics of TCP/IP. The questions at the end of each chapter highlight the main points and offer a good review of each chapter.
 
-Note that book is a bit old and focused on setting up Windows systems. This means that parts of the book are outdated with descriptions of how to setup older Windows versions that are now retired.  
+Note that this version of the book is a bit old and focused on setting up Windows systems. This means that parts of the book are outdated with descriptions of how to setup older Windows versions that are now retired.  
