@@ -106,3 +106,9 @@ ISBN: 9780782143709
 Easy to read book for beginners who is interested in learning the basics of TCP/IP. The questions at the end of each chapter highlight the main points and offer a good review of each chapter.
 
 Note that this version of the book is a bit old and focused on setting up Windows systems. This means that parts of the book are outdated with descriptions of how to setup older Windows versions that are now retired.  
+
+## Superintelligence: Paths, Dangers, Strategies  
+By: Nick Bostrom  
+ISBN: 9780198739838  
+![Image of the book Superinteligence](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/superintelligence.png?raw=true)  
+Philosophical book about what could happen when we create an artificial intelligence that is superior to humans intelligence. The author reasons that this could be dangerous and we might need to take precautions.  
