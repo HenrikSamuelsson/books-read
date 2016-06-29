@@ -110,5 +110,13 @@ Note that this version of the book is a bit old and focused on setting up Window
 ## Superintelligence: Paths, Dangers, Strategies  
 By: Nick Bostrom  
 ISBN: 9780198739838  
-![Image of the book Superinteligence](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/superintelligence.png?raw=true)  
+![Image of the book Superintelligence](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/superintelligence.png?raw=true)  
 Philosophical book about what could happen when we create an artificial intelligence that is superior to humans intelligence. The author reasons that this could be dangerous and we might need to take precautions.  
+
+## Agile Project Management with Scrum  
+By: Ken Schwaber  
+ISBN: 9780735619937  
+![Image of the book Agile Project Management with Scrum](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/agile_project_management_with_scrum.png?raw=true)  
+Scrum is a project management methodology for complex project such as team software development. The book serves as a fast and easy read for getting introduced to Scrum.  
+
+I personally liked the check list about the scrum rules in appendix A. It summarized the methodology very well.  
