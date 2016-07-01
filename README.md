@@ -120,3 +120,13 @@ ISBN: 9780735619937
 Scrum is a project management methodology for complex project such as team software development. The book serves as a fast and easy read for getting introduced to Scrum.  
 
 I personally liked the check list about the scrum rules in appendix A. It summarized the methodology very well.  
+
+## Make: Bluetooth  
+By: Alasdair Allan, Don Coleman & Sandeep Mistry  
+ISBN: 9781457187094  
+![Image of the book Make Bluetooth](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/make_bluetooth.png?raw=true)  
+Introduction to Bluetooth Low Energy (BLE) by showing how to build various projects based on popular maker hardware like for example Arduino and Raspberry Pi. Does not provide deep knowledge on BLE but the book is adequate for anyone that looks for a quick introduction.  
+
+Note that quite a bit of hardware is needed to finish all the projects. This will cost way more that the book itself.  
+
+Lacks explanations for running the projects on Windows machine so look elsewhere if this is your preferred development environment.  
