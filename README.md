@@ -130,3 +130,11 @@ Introduction to Bluetooth Low Energy (BLE) by showing how to build various proje
 Note that quite a bit of hardware is needed to finish all the projects, this will cost way more than the book itself.  
 
 Lacks explanations for running the projects on Windows machines so look elsewhere if this is your preferred development environment.  
+
+## Mine-Craft  
+By: Daniel Goldberg, Linus Larsson  
+ISBN: 9789113070247  
+![Image of the book Mine-Craft](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/minecraft.png?raw=true)  
+Nice book about the game Minecraft and the man behind the game i.e. Markus "Notch" Persson.   
+
+This book is written in Swedish, I am not aware of an English version.  
