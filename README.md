@@ -135,6 +135,6 @@ Lacks explanations for running the projects on Windows machines so look elsewher
 By: Daniel Goldberg, Linus Larsson  
 ISBN: 9789113070247  
 ![Image of the book Mine-Craft](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/minecraft.png?raw=true)  
-Nice book about the game Minecraft and the man behind the game i.e. Markus "Notch" Persson.   
+Nice book about development of the game Minecraft and the man behind the game i.e. Markus "Notch" Persson.   
 
 This book is written in Swedish, I am not aware of an English version.  
