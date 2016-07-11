@@ -68,6 +68,65 @@ Great introduction to the Java programming language. Probably not the best book 
 ## A Brief History of Time  
 By: Stephen Hawking  
 ISBN: 9780857501004  
-
+![Image of the book A Brief History of Time](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/a_brief_history_of_time.png?raw=true)  
 About how physicists try to understand out how the universe works. The book lives at the popular science shelf in the book store so anyone can read it. Very interesting and a highly recommended read.  
 
+## Life at the Speed of Light
+By: J. Craig Venter  
+ISBN: 978349139906  
+![Image of the book Life at the Speed of Light](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/life_at_the_speed_of_light.png?raw=true)  
+Biological genetics research on how to possibly construct new types of bacteria, animals and even humans by starting out with a computer aided draft that then can be artificially grown into that what we call a real life form.  
+
+## A Strange Tale  
+By: Hans Olov Öberg  
+ISBN: 9789185535828  
+![Image of the book A strange tale](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/a_strange_tale.png?raw=true)  
+The journey of a jazz band from the start, struggling to get a gig at small clubs, to the end when they were famous enough to fill prestigious concert halls.  
+
+Proves that the ingredients to success is a bit of talent combined with hard work and dedication.  
+
+## The Grand Design  
+By: Stephen Hawking and Leonard Mlodinow  
+ISBN: 9788129119711  
+![Image of the book The Grand Design](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/the_grand_design.png?raw=true)  
+About the creation and the fate of the universe as trying to be explained by physicists. The book explains the topics fairly well and there are nice color picture even in the pocket version. The reader is in the end unfortunately left hanging because the scientists does not really seem to have solved the riddle yet.  
+
+## Head First Design Patterns  
+By: Eric Freeman and Elisabeth Robson with Kathy Sierra and Bert Bates  
+ISBN: 9780596007126  
+![Image of the book Head First Design Patterns](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/head_first_design_patterns.png?raw=true)  
+Very nice introduction to design patterns, that serves as a great warm-up before reading the book Design Patterns: Elements of Reusable Object-Oriented Software.  
+
+Note that all examples are written in Java so it is necessary to be some what knowledgeable in this programming language to fully appreciate the book.  
+
+## TCP/IP Foundations  
+By: Andrew G. Blank  
+ISBN: 9780782143709  
+![Image of the book TCP/IP Foundations](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/tcp_ip_foundations.png?raw=true)  
+Easy to read book for beginners who is interested in learning the basics of TCP/IP. The questions at the end of each chapter highlight the main points and offer a good review of each chapter.
+
+Note that this version of the book is a bit old and focused on setting up Windows systems. This means that parts of the book are outdated with descriptions of how to setup older Windows versions that are now retired.  
+
+## Superintelligence: Paths, Dangers, Strategies  
+By: Nick Bostrom  
+ISBN: 9780198739838  
+![Image of the book Superintelligence](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/superintelligence.png?raw=true)  
+Philosophical book about what could happen when we create an artificial intelligence that is superior to humans intelligence. The author reasons that this could be dangerous and we might need to take precautions.  
+
+## Agile Project Management with Scrum  
+By: Ken Schwaber  
+ISBN: 9780735619937  
+![Image of the book Agile Project Management with Scrum](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/agile_project_management_with_scrum.png?raw=true)  
+Scrum is a project management methodology for complex project such as team software development. The book serves as a fast and easy read for getting introduced to Scrum.  
+
+I personally liked the check list about the scrum rules in appendix A. It summarized the methodology very well.  
+
+## Make: Bluetooth  
+By: Alasdair Allan, Don Coleman & Sandeep Mistry  
+ISBN: 9781457187094  
+![Image of the book Make Bluetooth](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/make_bluetooth.png?raw=true)  
+Introduction to Bluetooth Low Energy (BLE) by showing how to build various projects based on popular maker hardware like for example Arduino and Raspberry Pi. Does not provide deep knowledge on BLE, but the book is adequate for anyone that looks for a quick introduction.  
+
+Note that quite a bit of hardware is needed to finish all the projects, this will cost way more than the book itself.  
+
+Lacks explanations for running the projects on Windows machines so look elsewhere if this is your preferred development environment.  
