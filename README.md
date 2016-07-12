@@ -138,3 +138,11 @@ ISBN: 9789113070247
 Nice book about development of the game Minecraft and the man behind the game i.e. Markus "Notch" Persson.   
 
 This book is written in Swedish, I am not aware of an English version.  
+
+## Code - The Hidden Language of Computer Hardware and Software  
+By: Charles Petzold  
+ISBN: 9780735611313  
+![Image of the book Code](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/code.png?raw=true)  
+Partly explanation of how computers work and partly computer history. The explanations of how computers work are done extremely thoroughly starting out with the very basics and then builds on until a complete computer have been introduced.  
+
+This book is old by now, since it was released in year 2000, but it is still a formidable book well worth reading.   
