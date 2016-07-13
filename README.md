@@ -146,3 +146,11 @@ ISBN: 9780735611313
 Partly explanation of how computers work and partly computer history. The explanations of how computers work are done extremely thoroughly starting out with the very basics and then builds on until a complete computer have been introduced.  
 
 This book is old by now, since it was released in year 2000, but it is still a formidable book well worth reading.   
+
+## Six Thinking Hats  
+By: Edward de Bono  
+ISBN: 9780241257531  
+![Image of the book Six Thinking Hats](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/six_thinking_hats.png?raw=true)  
+Methodology for holding effective meetings.  
+
+Most meetings at companies would surely be faster and more productive if they followed the pattern presented in this book.  
