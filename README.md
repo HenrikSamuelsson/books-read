@@ -154,3 +154,9 @@ ISBN: 9780241257531
 Methodology for holding effective meetings.  
 
 Most meetings at companies would surely be faster and more productive if they followed the pattern presented in this book.  
+
+## Calm  
+By: Dr. Arlene K. Unger  
+ISBN: 9781845436391  
+![Image of the book Calm](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/calm.png?raw=true)   
+Mindfulness exercises that could possibly get your brain back on track if feeling stressed or having problem to sleep.  
