@@ -186,3 +186,12 @@ Discussions of generic programming based on principles from abstract algebra. Ex
 This was the second time I read this book and I probably understood a little bit more than the first time. Will have to have at least one more go at the book to grasp everything.  
 
 Good book for little more experienced software developers that want to take their craft to the next level.  
+
+## 4 Timmars Arbetsvecka (The 4-Hour Workweek)  
+By: Timothy Ferris    
+ISBN(Swedish version): 9789186369835
+ISBN(English version): 9780307465351  
+![Image of the book 4 Timmars Arbetsvecka](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/fyra_timmars_arbetsvecka.png?raw=true)   
+Time management book claiming to teach how to work less and have time for other things.  
+
+I personally did not really like this book. Some of the advice are kind of unethical. There are also some contradictions, like learn speed learning but don't read books because this is a waste of time.  
