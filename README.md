@@ -189,7 +189,7 @@ Good book for little more experienced software developers that want to take thei
 
 ## 4 Timmars Arbetsvecka (The 4-Hour Workweek)  
 By: Timothy Ferris    
-ISBN(Swedish version): 9789186369835
+ISBN(Swedish version): 9789186369835  
 ISBN(English version): 9780307465351  
 ![Image of the book 4 Timmars Arbetsvecka](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/fyra_timmars_arbetsvecka.png?raw=true)   
 Time management book claiming to teach how to work less and have time for other things.  
