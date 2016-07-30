@@ -160,3 +160,11 @@ By: Dr. Arlene K. Unger
 ISBN: 9781845436391  
 ![Image of the book Calm](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/calm.png?raw=true)   
 Mindfulness exercises that could possibly get your brain back on track if feeling stressed or having problem to sleep.  
+
+## 100 Simple Things You Can do to Prevent Alzheimer's   
+By: Jean Carper  
+ISBN: 9780091939519  
+![Image of the book 100 Simple Things You Can do to Prevent Alzheimer's](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/one_hundred_simple_things.png?raw=true)   
+Collection of tips on how to possibly stop or at least slow down dementia.  
+
+Solid living advice's that may or may not prevent Alzheimer's but will still for sure make you feel better and be more energetic if followed.  
