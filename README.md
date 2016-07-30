@@ -168,3 +168,11 @@ ISBN: 9780091939519
 Collection of tips on how to possibly stop or at least slow down dementia.  
 
 Solid life-style advice's, that may or may not prevent Alzheimer's, but will for sure make you feel better and be more energetic if followed.  
+
+## A Book of Abstract Algebra   
+By: Charles C. Pinter    
+ISBN: 978-0486474175  
+![Image of the book A Book of Abstract Algebra](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/a_book_of_abstract_algebra.png?raw=true)   
+Rigorous text covering topics in abstract algebra. Plenty of exercises are included in the book.  
+
+I did not have time to do many of the exercises and this probably prevented me from understanding most of the concepts in this book. Will hopefully read this book again sometime in the future and then learn more about abstract algebra.  
