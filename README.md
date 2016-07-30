@@ -167,4 +167,4 @@ ISBN: 9780091939519
 ![Image of the book 100 Simple Things You Can do to Prevent Alzheimer's](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/one_hundred_simple_things.png?raw=true)   
 Collection of tips on how to possibly stop or at least slow down dementia.  
 
-Solid living advice's that may or may not prevent Alzheimer's but will still for sure make you feel better and be more energetic if followed.  
+Solid life-style advice's, that may or may not prevent Alzheimer's, but will for sure make you feel better and be more energetic if followed.  
