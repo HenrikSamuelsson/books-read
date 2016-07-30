@@ -181,7 +181,7 @@ I did not have time to do many of the exercises and this probably prevented me f
 By: Alexander A. Stepanov, Daniel E. Rose      
 ISBN: 9780321942043  
 ![Image of the book From Mathematics to Generic Programming](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/from_mathematics_to_generic_programming.png?raw=true)   
-Principles of generic programming based on principles from abstract algebra. Explains how to write effective and reusable code.  
+Discussions of generic programming based on principles from abstract algebra. Explains how to write effective and reusable code.  
 
 This was the second time I read this book and I probably understood a little bit more than the first time. Will have to have at least one more go at the book to grasp everything.  
 
