@@ -171,8 +171,18 @@ Solid life-style advice's, that may or may not prevent Alzheimer's, but will for
 
 ## A Book of Abstract Algebra   
 By: Charles C. Pinter    
-ISBN: 978-0486474175  
+ISBN: 9780486474175  
 ![Image of the book A Book of Abstract Algebra](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/a_book_of_abstract_algebra.png?raw=true)   
 Rigorous text covering topics in abstract algebra. Plenty of exercises are included in the book.  
 
 I did not have time to do many of the exercises and this probably prevented me from understanding most of the concepts in this book. Will hopefully read this book again sometime in the future and then learn more about abstract algebra.  
+
+## From Mathematics to Generic Programming   
+By: Alexander A. Stepanov, Daniel E. Rose      
+ISBN: 9780321942043  
+![Image of the book From Mathematics to Generic Programming](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/from_mathematics_to_generic_programming.png?raw=true)   
+Principles of generic programming based on principles from abstract algebra. Explains how to write effective and reusable code.  
+
+This was the second time I read this book and I probably understood a little bit more than the first time. Will have to have at least one more go at the book to grasp everything.  
+
+Good book for little more experienced software developers that want to take their craft to the next level.  
