@@ -195,3 +195,14 @@ ISBN(English version): 9780307465351
 Time management book claiming to teach how to work less and have time for other things.  
 
 I personally did not really like this book. Some of the advice are kind of unethical. There are also some contradictions, like learn speed learning but don't read books because this is a waste of time.  
+
+## Deep Work  
+By: Cal Newport  
+ISBN: 9780349411903    
+![Image of the book Deep Work](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/deep_work.png?raw=true)   
+ 
+Discussion about intense focus that enables solving demanding tasks. The task can be for example construction of mathematic proofs or designing complex software.
+
+First part of the book discusses why being able to do deep work is rewarding such as for example becoming attractive at the job market. The second part of the book discusses organization of life style and working environment that makes it poossible to do deep work.  
+
+This is a very nice book and I aggree with most of the points made in the book. If you want to attempt to make a mark in history try to live according to the advice in this book, if not just simply get back to facebook again and make a post about what you had for breakfast.  
