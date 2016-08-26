@@ -201,8 +201,19 @@ By: Cal Newport
 ISBN: 9780349411903    
 ![Image of the book Deep Work](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/deep_work.png?raw=true)   
  
-Discussion about intense focus that enables solving demanding tasks. The task can be for example construction of mathematic proofs or designing complex software.
+Discussion about intense focus that enables solving demanding tasks. The task can be for example construction of mathematical proofs or designing complex software.
 
-First part of the book discusses why being able to do deep work is rewarding such as for example becoming attractive at the job market. The second part of the book discusses organization of life style and working environment that makes it poossible to do deep work.  
+First part of the book discusses why being able to do deep work is rewarding such as for example becoming attractive at the job market. The second part of the book discusses organization of life style and working environment that makes it possible to do deep work.  
 
-This is a very nice book and I aggree with most of the points made in the book. If you want to attempt to make a mark in history try to live according to the advice in this book, if not just simply get back to facebook again and make a post about what you had for breakfast.  
+This is a very nice book and I agree with most of the points made in the book. If you want to attempt to make a mark in history try to live according to the advice in this book, if not just simply get back to Facebook again and make a post about what you had for breakfast.  
+
+## Din Växande Värld  
+By: Göran Rumenius and Jörgen Rundgren  
+ISBN: 9789186951122  
+![Image of Din växande värld](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/din_vaxande_varld.png?raw=true)   
+ 
+Study technique book. Probably only available in Swedish.   
+
+The book is kind of thin compared to the price. Should take most readers no more than 45 minutes to get through the 80 or so pages. So not really value for money.  
+
+There is some alright advice. I for example liked the idea to start out with a new book to be read by skimming for the main ideas. Maybe just reading the end chapter conclusions or looking for boxes with important material. Beginning with the integral parts gives maximum knowledge in minimum time. Then if there is time for more rounds so can the material in the book be studied more thoroughly on each round.  
