@@ -217,3 +217,11 @@ Study technique book. Probably only available in Swedish.
 The book is kind of thin compared to the price. Should take most readers no more than 45 minutes to get through the 80 or so pages. So not really value for money.  
 
 There is some alright advice. I for example liked the idea to start out with a new book to be read by skimming for the main ideas. Maybe just reading the end chapter conclusions or looking for boxes with important material. Beginning with the integral parts gives maximum knowledge in minimum time. Then if there is time for more rounds so can the material in the book be studied more thoroughly on each round.  
+
+## Embedded C Coding Standard  
+By: Michael Barr  
+ISBN: 9781442164826  
+
+This is as the title says advice for how to write code in C. It is important to use a consistent style in the entire code base for a project. This makes the code simpler to follow when reading other peoples code and can reduce the number of bugs.
+
+This book presents guidelines that can be used when setting up your teams coding standard rules.  
