@@ -222,6 +222,8 @@ There is some alright advice. I for example liked the idea to start out with a n
 By: Michael Barr  
 ISBN: 9781442164826  
 ![Image of the book Embedded C Coding Standard](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/embedded_c_coding_standard.png?raw=true)  
-This is as the title says advice for how to write code in C. It is important to use a consistent style in the entire code base for a project. This makes the code simpler to follow when reading other peoples code and can reduce the number of bugs.
+This is as the title says advice for how to write code in C.
+
+It is important to use a consistent style in the entire code base for a project. This makes the code simpler to follow when reading other peoples code and can reduce the number of bugs.
 
 This book presents generally valid guidelines that can be used as a base when setting up your own coding standard document.  
