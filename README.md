@@ -216,7 +216,7 @@ Study technique book. Probably only available in Swedish.
 
 The book is kind of thin compared to the price. Should take most readers no more than 45 minutes to get through the 80 or so pages. So not really value for money.  
 
-There is some alright advice. I for example liked the idea to start out with a new book to be read by skimming for the main ideas. Maybe just reading the end chapter conclusions or looking for boxes with important material. Beginning with the integral parts gives maximum knowledge in minimum time. Then if there is time for more rounds so can the material in the book be studied more thoroughly on each round.  
+There is some alright advice. I for example liked the idea to start out by just skimming for the main ideas when starting to read a book. Maybe just reading the end chapter conclusions or looking for boxes with important material. Beginning with the integral parts gives maximum knowledge in minimum time. Then if there is time for more rounds so can the material that shall be learned be studied more thoroughly on each round.  
 
 ## Embedded C Coding Standard  
 By: Michael Barr  
