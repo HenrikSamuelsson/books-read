@@ -232,6 +232,6 @@ This book presents generally valid guidelines that can be used as a base when se
 By: Lars Bengtsson, Lennart Lindh, Mia Lindh   
 ASIN: B015J5S50W    
 ![Image of the book Low Level C Programming for Designers: 2015](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/low_level_c_programming_for_designers.png?raw=true)  
-Tutorial style book with C projects to be run on a FPGA development kit.  
+Tutorial style book with close to the metal C projects to be run on a FPGA development kit.  
 
-I have not been able buy the development kit (BeMicro Max 10) that is needed to run the project in this book. It also kind of seems that this kit wont come back. There is a newer but more expensive version on sale now. Not having access to the needed hardware unfortunately removes much of the value of the book.  
+I have not been able buy the development kit (BeMicro Max 10) that is needed to run the project in this book. It also kind of seems that this kit wont come back, there is a newer but more expensive version in stock now. Not having access to the needed hardware unfortunately removes much of the value of the book.  
