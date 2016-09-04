@@ -239,7 +239,7 @@ I have not been able buy the development kit (BeMicro Max 10) that is needed to 
 ## Better Embedded System Software      
 By: Philip J. Koopman     
 ISBN: 9780984449002  
-![Image of the book Better Embedded System Software](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/better_embedde_system_software.png?raw=true)  
+![Image of the book Better Embedded System Software](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/better_embedded_system_software.png?raw=true)  
 Concrete advice on how to produce quality embedded software. The entire process from writing specifications to testing software is discussed.  
 
 The book is easy to read and following the advice will surely improve the final result of your software development projects.  
