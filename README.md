@@ -227,3 +227,11 @@ This is as the title says advice for how to write code in C.
 It is important to use a consistent style in the entire code base for a project. This makes the code simpler to follow when reading other peoples code and can reduce the number of bugs.
 
 This book presents generally valid guidelines that can be used as a base when setting up your own coding standard document.  
+
+## Low Level C Programming for Designers: 2015    
+By: Lars Bengtsson, Lennart Lindh, Mia Lindh   
+ASIN: B015J5S50W    
+![Image of the book Low Level C Programming for Designers: 2015](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/low_level_c_programming_for_designers.png?raw=true)  
+Tutorial style book with C projects to be run on a FPGA development kit.  
+
+I have not been able buy the development kit (BeMicro Max 10) that is needed to run the project in this book. It also kind of seems that this kit wont come back. There is a newer but more expensive version on sale now. Not having access to the needed hardware unfortunately removes much of the value of the book.  
