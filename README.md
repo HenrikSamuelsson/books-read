@@ -237,7 +237,7 @@ Tutorial style book with close to the metal C projects to be run on a FPGA devel
 I have not been able buy the development kit (BeMicro Max 10) that is needed to run the project in this book. It also kind of seems that this kit wont come back, there is a newer but more expensive version in stock now. Not having access to the needed hardware unfortunately removes much of the value of the book.  
 
 ## Better Embedded System Software      
-By: Philip J. Koopman     
+By: Philip J. Koopman  
 ISBN: 9780984449002  
 ![Image of the book Better Embedded System Software](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/better_embedded_system_software.png?raw=true)  
 Concrete advice on how to produce quality embedded software. The entire process from writing specifications to testing software is discussed.  
@@ -245,3 +245,11 @@ Concrete advice on how to produce quality embedded software. The entire process 
 The book is easy to read and following the advice will surely improve the final result of your software development projects.  
 
 Highly recommended read for both developers and software project leaders.  
+
+## The Rook's Guide to C++        
+By: Jeremy Hansen  
+ISBN: 978-1304661050  
+![Image of the book The Rook's Guide to C++](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/the_rooks_guide_to_c_plus_plus.png?raw=true)  
+A small book on the C++ programming language written during a weekend by a group of students. Can be bought on paper or downloaded for free from [here](https://rooksguide.org/ "here").  
+
+I plan to read a couple of C++ books to get better at programming in this language. This book suited me well as an appetizer for this quest.  
