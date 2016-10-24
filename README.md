@@ -253,3 +253,11 @@ ISBN: 978-1304661050
 A small book on the C++ programming language written during a weekend by a group of students. Can be bought on paper or downloaded for free from [here](https://rooksguide.org/ "here").  
 
 I plan to read a couple of C++ books to get better at programming in this language. This book suited me well as an appetizer for this quest.  
+
+## The Power of SCRUM        
+By: Jeffrey V Sutherland, D. M. van Solingen, Eelco Rustenberg   
+ISBN: 978-1463578060  
+![Image of the book The Power of Scrum](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/the_power_of_scrum.png?raw=true)  
+Small, basic introduction to Scrum. Written in a simple narrative fashion that should be easy for most people to read in a couple of hours.  
+
+Sometimes a bit silly and kind of exaggerates how smooth thing will run just by starting out to use Scrum. The font used in the book is horrible which is sad. Other than that quite a nice read.  
