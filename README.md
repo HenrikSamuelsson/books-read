@@ -266,6 +266,6 @@ Sometimes a bit silly and kind of exaggerates how smooth thing will run just by 
 By: Ryan Hodson   
 ASIN: B00QFIA5OC  
 ![Image of the book Ry's Git Tutorial](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/rys_git_tutorial.png?raw=true)  
-Good book for starting to learn the version control system called Git. Most more experienced Git users will probably pick up a thing or two by reading this book.  
+Good book for starting to learn the version control system called Git. Most more experienced Git users will probably also pick up a thing or two by reading this book.  
 
 Amazon Kindle version of the book can at the time of writing this be downloaded for free.   
