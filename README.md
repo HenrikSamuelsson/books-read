@@ -261,3 +261,11 @@ ISBN: 978-1463578060
 Small, basic introduction to Scrum. Written in a simple narrative fashion that should be easy for most people to read in a couple of hours.  
 
 Sometimes a bit silly and kind of exaggerates how smooth thing will run just by starting out to use Scrum. The font used in the book is a horrible choice for a printed book which is sad. Other than that quite a nice read.  
+
+## Ry's Git Tutorial        
+By: Ryan Hodson   
+ASIN: B00QFIA5OC  
+![Image of the book Ry's Git Tutorial](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/rys_git_tutorial.png?raw=true)  
+Good book for starting to learn the version control system called Git. Most more experienced Git users will probably pick up a thing or two by reading this book.  
+
+Amazon Kindle version of the book can at the time of writing this be downloaded for free.   
