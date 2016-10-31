@@ -269,3 +269,11 @@ ASIN: B00QFIA5OC
 Good book for starting to learn the version control system called Git. Most more experienced Git users will probably also pick up a thing or two by reading this book.  
 
 Amazon Kindle version of the book can at the time of writing this be downloaded for free.   
+
+## The 5 Elements of Effective Thinking        
+By: Edward B Burger, Michael Starbird  
+ISBN: 9780691156668  
+![Image of the book The 5 Elements of Effective Thinking](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/the_5_elements_of_effective_thinking.png?raw=true)  
+Nice little book that discusses problem solving techniques.  
+
+I read this a part of course held by Michael Starbird and the book worked well in combination with the lectures. Might be so that the book is a little abstract on it's own.  
