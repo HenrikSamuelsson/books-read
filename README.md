@@ -277,3 +277,11 @@ ISBN: 9780691156668
 Nice little book that discusses problem solving techniques.  
 
 I read this a part of course held by Michael Starbird and the book worked well in combination with the lectures. Might be so that the book is a little abstract on it's own.  
+
+## Productivity for Dummies  
+By: Ciara Conlon  
+ISBN: 9781119099529  
+![Image of the book Productivity for Dummies](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/productivity_for_dummies.png?raw=true)  
+Advice on how to become more productive.  
+
+Good advice but a bit repetitive book.  
