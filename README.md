@@ -284,4 +284,10 @@ ISBN: 9781119099529
 ![Image of the book Productivity for Dummies](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/productivity_for_dummies.png?raw=true)  
 Advice on how to become more productive.  
 
-Good advice but a bit repetitive book.  
+Good advice but a bit repetitive book.
+
+## Bad Arguments  
+By: Ali Almossawi  
+ISBN: 9781922247810  
+![Image of the book Bad Arguments](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/bad_arguments.png?raw=true)  
+Categorizes and gives names different types of logical errors that people make during argumentation's. Each fallacy is exemplified by an illustration.  
