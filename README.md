@@ -291,3 +291,11 @@ By: Ali Almossawi
 ISBN: 9781922247810  
 ![Image of the book Bad Arguments](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/bad_arguments.png?raw=true)  
 Categorizes and gives names different types of logical errors that people make during argumentation's. Each fallacy is exemplified by an illustration.  
+
+## Khorne Daemokin  
+By: -  
+ISBN: 9781782537267  
+![Image of the book Khorne Daemonkin](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/khorne_daemonkin.png?raw=true)  
+A so called codex, that is a set of rules, needed to know how to paint an play with the Khorne fraction in a game called Warhammer 40k.  
+
+More to be seen as an instruction manual than a real book. Part of the text is highly repetitive explaining again and again how blood thirsty Khorne warriors are. The very nice pictures is probably the highlight of the book.  
