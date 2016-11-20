@@ -299,3 +299,11 @@ ISBN: 9781782537267
 A so called codex, that is a set of rules, needed to know how to paint an play with the Khorne fraction in a game called Warhammer 40k.  
 
 More to be seen as an instruction manual than a real book. Part of the text is highly repetitive explaining again and again how blood thirsty Khorne warriors are. The very nice pictures is probably the highlight of the book.  
+
+## Getting Things Done: The Art of Stress-free Productivity  
+By: David Allen  
+ISBN: 9780349408941  
+![Image of the book Getting Things Done](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/getting_things_done.png?raw=true)  
+Business book about personal organization. Main idea is to keep things organized in a way that relieves the brain making it possible to focus on the real actions that shall be taken.
+
+I truly believe that the techniques presented in this books works well. Highly recommended read for people who wants to achieve more than today and feel less stressed.
