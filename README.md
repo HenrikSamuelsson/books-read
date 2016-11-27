@@ -317,7 +317,7 @@ Lists 100 more or less forgotten skills you should know when the shit hits the f
 Mostly just a list of different good to know things such as making fire, collecting water, black smiting. Does not really teach any details about the skills so you will need to get more books about each skill to become a true survivor. Building and preserving a library is actually one of the skills listed in the book.  
 
 ## Hjärnan på 30 sekunder (30-second Brain) 
-By: - 
+By: -   
 ISBN: 9789176174081  
 ![Image of the book Hjärnan på 30 sekunder](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/hjarnan.png?raw=true)  
 Explains briefly how the brain works based on different brain research.  
