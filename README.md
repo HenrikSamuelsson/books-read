@@ -314,4 +314,12 @@ ISBN: 9781612124568
 ![Image of the book 100 Skills](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/one_hundred_skills.png?raw=true)  
 Lists 100 more or less forgotten skills you should know when the shit hits the fan, i.e. when the world as we know it collapses due to plague, war, volcano eruption, alien attack or whatever strikes us.
 
-Mostly just a list of different good to know things such as making fire, collecting water, black smiting. Does not really teach any details about the skills so you will need to get more books about each skill to become a true survivor. Building and preserving a library is actually one of the skills listed in the book.     
+Mostly just a list of different good to know things such as making fire, collecting water, black smiting. Does not really teach any details about the skills so you will need to get more books about each skill to become a true survivor. Building and preserving a library is actually one of the skills listed in the book.  
+
+## Hjärnan på 30 sekunder (30-second Brain) 
+By: - 
+ISBN: 9789176174081  
+![Image of the book Hjärnan på 30 sekunder](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/hjarnan.png?raw=true)  
+Explains briefly how the brain works based on different brain research.  
+
+The idea with the book it's that it shall be a fast read but this idea kind of hold tho book back since each topic is described very shallowly.  
