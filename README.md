@@ -322,4 +322,18 @@ ISBN: 9789176174081
 ![Image of the book Hjärnan på 30 sekunder](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/hjarnan.png?raw=true)  
 Explains briefly how the brain works based on different brain research.  
 
-The idea with the book it's that it shall be a fast read but this idea kind of hold tho book back since each topic is described very shallowly.  
+The idea with the book it's that it shall be a fast read but this idea kind of hold the book back since each topic is described very shallowly.  
+
+## Google från Insidan  
+By: Eric Schmidt & Jonathan Rosenberg   
+ISBN: 9789163612886  
+![Image of the book Google fran Insidan](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/google_fran_insidan.png?raw=true)  
+Describes leadership philosophies used at Google.  
+
+Topics are jumbled up with out any red thread. Could not have taken a very long time to write this book.
+
+## Minnet, Fram och Tillbaka     
+By: Pontus Wasling     
+ISBN: 9789175033471    
+![Image of the book Minnet, fram och tillbaka](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/minnet_fram_och_tillbaka.png?raw=true)  
+Explains the mechanism's used in the brain for handling  storing and maintenance of our memories.
