@@ -337,3 +337,9 @@ By: Pontus Wasling
 ISBN: 9789175033471    
 ![Image of the book Minnet, fram och tillbaka](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/minnet_fram_och_tillbaka.png?raw=true)  
 Explains the mechanism's used in the brain for handling  storing and maintenance of our memories.
+
+## Born to Run     
+By: Christopher Mcdougall      
+ISBN: 9789172322608  
+![Image of the book Born to Run](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/born_to_run.png?raw=true)  
+Inspiring and interesting book about long distance running. 
