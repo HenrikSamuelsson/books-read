@@ -353,7 +353,7 @@ About to how to handle people on your workplace that could be stressed, but also
 Nice, easy to read book. Love the cover that have a very clean design, all books should look like this.  
 
 ## Herrarnas Högexplosiva Dassbok
-By: -
+By: -  
 ISBN: 9155262945  
 ![Image of the book Dassbok](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/dassbok.png?raw=true)  
 Humor book intended to be read while sitting on the toilet.  
