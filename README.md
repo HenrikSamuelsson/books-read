@@ -350,4 +350,11 @@ ISBN: 978 91 639 1555 0
 ![Image of the book Bemötande-koden](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/bemotande_koden.png?raw=true)  
 About to how to handle people on your workplace that could be stressed, but also how to handle your own stress. Concepts are often explained by discussing the mechanics of the human brain.  
 
-Nice easy to read book. Love the cover that have a very clean design, all books should look like that.   
+Nice, easy to read book. Love the cover that have a very clean design, all books should look like this.  
+
+## Herrarnas Högexplosiva Dassbok
+By: -
+ISBN: 9155262945  
+![Image of the book Dassbok](https://github.com/HenrikSamuelsson/books-read-2016/blob/master/Resources/Images/dassbok.png?raw=true)  
+Humor book intended to be read while sitting on the toilet.  
+ 
